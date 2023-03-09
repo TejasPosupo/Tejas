@@ -113,6 +113,15 @@ a:hover {
   vertical-align: middle;
 
 }
+.btn {
+  background:transparent;
+  color:var(--primary);
+  border-color:var(--primary);
+}
+.btn:hover{
+  background:var(--primary);
+  color:var(--secondary);
+}
 
 /*--/ Sections /--*/
 
