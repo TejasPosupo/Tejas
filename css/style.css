@@ -111,8 +111,8 @@ a:hover {
 .table-cell {
   display: table-cell;
   vertical-align: middle;
-
 }
+
 .btn {
   background:transparent;
   color:var(--primary);
