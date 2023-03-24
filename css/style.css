@@ -2639,7 +2639,7 @@ xclip
 }
 
 .hover-up{
-	background: #076799;
+	background: #0078ff;
 }
 
 .service-widget .post-media_pp .hover-up{
@@ -5476,16 +5476,16 @@ html, body {
 }
 
 /* Section: History */
-.section-history {
+.section-education {
   padding: 70px 0;
   background-color: #f6f6f6;
 }
 
-.section-history .section-diff-title h2 {
+.section-education .section-diff-title h2 {
   color: #196fc2;
 }
 
-.section-history .section-diff-title p {
+.section-education .section-diff-title p {
   text-transform: uppercase;
 }
 
@@ -5643,10 +5643,10 @@ html, body {
 
 @media only screen and (max-width: 767px) {
   /* Section: History */
-  .section-history {
+  .section-education {
     padding: 100px 0;
   }
-  .section-history h2 {
+  .section-education h2 {
     font-size: 36px;
   }
   .section-diff-title p {
