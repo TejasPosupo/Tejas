@@ -923,6 +923,10 @@ a:hover {
 /*======================================
 //--//-->   BLOG-SINGLE
 ======================================*/
+.tech_exp{
+  text-align: justify;
+}
+
 .sub-head{
   text-align: center;
 }
